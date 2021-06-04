@@ -21,7 +21,7 @@ Before you follow the remaining instructions, ensure you have the following inst
 - [`Node`](https://nodejs.org/en/) (latest LTS version) e.g. via [NVM](https://github.com/nvm-sh/nvm) or `brew install node`
 
 1. Clone this repo via SSH and open the directory: `git clone https://github.com/klanders1/tfg-code-challenge.git && cd tfg-code-challenge`
-2. Create a new branch off `master` called `development-first-name` to do your work.
+2. Create a new branch off `master` called `development-todaysdate` to do your work.
 3. Run `npm install`.
 4. Run `npm start` to start application
 5. Navigate to http://localhost:3000/ in your browser of choice and familiarize yourself with each page.
