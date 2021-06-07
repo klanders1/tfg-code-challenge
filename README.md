@@ -38,7 +38,6 @@ Our main goal with this sample project is to get a better understanding of if yo
 - How you use the tools available to you
 - How well you handle given requirements
 - Reading comprehension
-- And more!...
 
 Treat this like a work environment. Use the internet, source documentation, ask questions to the team.
 
